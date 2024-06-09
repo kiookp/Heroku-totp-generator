@@ -21,7 +21,7 @@ git clone https://github.com/kiookp/Heroku-totp-generator.git
 ```
 
 ```bash
-cd heroku-nginx-docker-container
+cd Heroku-totp-generator
 ```
 
 ```bash
